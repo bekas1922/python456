@@ -245,7 +245,7 @@ elif ask =="2":
             print(f"\r                   [=] Hit : {h} / Bad : {b} / Scure : {s} / Block : {block}",end='')
         else:
             b+=1    
-            print(f"\r                   [=] Hit : {h} / Bad : {b} / Scure : {s} / Block : {block}",end='')
+            print(f"\r                   [=] Hit : {h} / Bad : {b} / Scure : {s} / Block : {block}",end=''
 
     
 
